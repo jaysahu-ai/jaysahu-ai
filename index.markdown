@@ -4,7 +4,7 @@
 
 layout: page
 ---
-<img src="jay.jpeg" width="200" height="200" style="float:right;padding-right:50 px">
+<img src="Jay.jpeg" width="200" height="200" style="float:right;padding-right:50 px">
 
 This is a portfolio website for Jay Prakash Sahu. This website contains the projects he has done, his tech blogs and few details about him. 
 
